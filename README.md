@@ -28,7 +28,7 @@ A fully functioning budget tracker for your finance tracking needs!
 
 ## ✨&nbsp; Description
 
-An budget tracking app that provides a fast an easy way for user to track their money.
+A budget tracking app that provides a fast an easy way for users to track their money!
 
 Check it out: [Budget Tracker](https://moneyss.herokuapp.com/) 
 
