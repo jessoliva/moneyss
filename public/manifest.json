@@ -1,7 +1,7 @@
 {
     "name": "Budget Tracker",
     "short_name": "Budget",
-    "theme_color": "#556be6",
+    "theme_color": "#d68b9d",
     "background_color": "#e6e7ed",
     "start_url": "./index.html",
     "display": "standalone",
