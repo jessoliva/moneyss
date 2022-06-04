@@ -30,9 +30,9 @@ A fully functioning budget tracker for your finance tracking needs!
 
 An budget tracking app that provides a fast an easy way for user to track their money.
 
-Check it out: [Budget Tracker](https://letssearchbooks.herokuapp.com/) 
+Check it out: [Budget Tracker](https://moneyss.herokuapp.com/) 
 
-<img src="./website.png" width="60%">
+<!-- <img src="./website.png" width="60%"> -->
 
 ## 🌼&nbsp; Features
 
@@ -64,7 +64,7 @@ To invoke the app after installing the dependencies, run the following command a
 
     npm start
 
-Or use the website's [link!](https://letssearchbooks.herokuapp.com/)
+Or use the website's [link!](https://moneyss.herokuapp.com/)
 
 ## ✏️&nbsp; Contribution Guidelines
 
